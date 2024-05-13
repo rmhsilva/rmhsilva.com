@@ -3,7 +3,7 @@
     <div class="narrow">
 
       <div class="coloured content mb-24">
-        <a href="/archive">Full Archive</a>
+        <a href="/archive">Archive</a>
       </div>
 
       <div class="mb-48" v-for="edge in $page.allEssay.edges" :key="edge.node.id">

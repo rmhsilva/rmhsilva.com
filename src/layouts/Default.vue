@@ -14,10 +14,8 @@
         </a>
 
         <nav class="header-nav float-right inline-block edge-padding">
-          <a href="/questions">Questions</a>
           <a href="/now">Now</a>
           <a href="/work">Work</a>
-          <a href="/books">Books</a>
           <a href="/writing">Writing</a>
         </nav>
 

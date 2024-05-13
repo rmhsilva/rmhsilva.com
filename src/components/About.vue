@@ -23,7 +23,6 @@
         <li><a href="mailto:ric@rmhsilva.com">
           <span>ric@<span class="light">rmhsilva.com</span></span>
         </a></li><br/>
-        <!-- keybase -->
       </ul>
     </div>
 
